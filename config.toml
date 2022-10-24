@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog-5mi.pages.dev/'
 languageCode = 'en-us'
 title = 'My Blog'
 theme = "terminal"
